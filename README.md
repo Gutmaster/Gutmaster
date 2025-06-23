@@ -1,7 +1,7 @@
 # Hello, I am Chevy and I program sometimes. 👋
 ### I'm a freshly minted full-stack developer looking for job opportunites. I also develop games as a hobby on the side.
 
-- 🔭 I’m currently working on my portfolio and finding work.
+- 🔭 I’m currently working on my portfolio and looking for work.
 - ⚡ Fun fact: I'm a dual citizen of the U.S. and Canada.
 
 ## Talk to me:
@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
 
 ## Education:
-Flatiron School  
-DigiPen Institute of Technology  
+- ### Flatiron School  
+- ### DigiPen Institute of Technology  
 <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" />
 
 
