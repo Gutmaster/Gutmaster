@@ -1,4 +1,4 @@
-# Hello, I am Chevy and I program sometimes. 👋
+# Hello, I am Chevy 👋
 ### I'm a freshly minted full-stack developer looking for job opportunites. I also develop games as a hobby on the side.
 
 - 🔭 I’m currently working on my portfolio and looking for work.
